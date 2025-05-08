@@ -33,8 +33,8 @@ const Project = () => {
     {
       "img": "projectFour",
       "name": "College Predictor",
-      "github_link": "https://college-predictor-eta.vercel.app/",
-      "live_link": ""
+      "github_link": "https://github.com/Dmusk/College-Predictor",
+      "live_link": "https://college-predictor-eta.vercel.app/"
     }
   ];
   return (
