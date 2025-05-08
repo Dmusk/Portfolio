@@ -32,8 +32,8 @@ const Project = () => {
     },
     {
       "img": "projectFour",
-      "name": "Skill-Sync",
-      "github_link": "https://skill-sync-algosquad.vercel.app/",
+      "name": "College Predictor",
+      "github_link": "https://college-predictor-eta.vercel.app/",
       "live_link": ""
     }
   ];
